@@ -93,3 +93,4 @@ Desarrollado como parte del portafolio de análisis exploratorio e ingeniería d
 
 * **GitHub:** [@miguel-cedillo](https://github.com/miguel-cedillo)
 * **Render:** [@miguel_cedillo](https://vehicles-us-t2lt.onrender.com)
+* **URL-RENDER:** [https://vehicles-us-t2lt.onrender.com]
