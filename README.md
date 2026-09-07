@@ -92,4 +92,4 @@ Sigue estos pasos ordenados para clonar el proyecto y ejecutar la aplicación en
 Desarrollado como parte del portafolio de análisis exploratorio e ingeniería de interfaces de datos. ¡Feedback y contribuciones son siempre bienvenidos!
 
 * **GitHub:** [@miguel-cedillo](https://github.com/miguel-cedillo)
-
+* **Render:** [@miguel_cedillo](https://vehicles-us-t2lt.onrender.com)
